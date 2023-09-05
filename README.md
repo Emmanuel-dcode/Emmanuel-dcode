@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmanuel-dcode
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning react and next.js
+- 🌱 I’m currently learning react and node.js
 - 💞️ I’m looking to collaborate with great  mind and internship roles 
 - 📫 How to reach me whatsapp +2349060306875
 
